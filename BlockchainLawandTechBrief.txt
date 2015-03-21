@@ -1,0 +1,44 @@
+﻿Re: Blockchain Law and Tech Brief
+
+
+03-20-2015
+Begun By: Dazza Greenwood and Evan Absher
+
+
+Facts: 
+
+
+* The block chain is distributed internationally using peer-to-peer filesharing technology similar to BitTorrent. The protocol was designed in 2008 and released in 2009 as open source software by "Satoshi Nakamoto", the pseudonym of the original developer or group of developers.[1] Essentially the Blockchain serves as a  public ledger for transactions. Bitcoin, famously relies on the Blockchain to verify and record Bitcoin transactions. However there are other purposes that could use blockchain, for instance BlockSign which verifies e-signatures and records documents.[2]
+* The network timestamps transactions by including them in blocks that form an ongoing chain called the block chain. Such blocks cannot be changed without redoing the work that was required to create each block since the modified block. The longest chain serves not only as proof of the sequence of events but also records that this sequence of events was verified by a majority of the bitcoin network's computing power. As long as a majority of computing power is controlled by nodes that are not cooperating to attack the network, they will generate the longest chain of records and outpace attackers.[3]
+* The network itself requires minimal structure to share transactions. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will. Upon reconnection, a node will download and verify new blocks from other nodes to complete its local copy of the block chain.[4]
+People:
+There are several roles for people to play in blockchain, miner, user (both purchaser and merchant), speculator and investor. 
+* Miner - The role of miner is one of verification. Individuals engage in proof-of-work to verify the transactions that have occurred in the blockchain. Miners essentially “find” new blocks and join them to the chain. Because this is spread out among a multitude of users it is widely considered extremely secure. If someone wished to tamper  with the blockchain, they would have to change all the proof-of-work from all miners and miner pools, a feat that is, at this time, almost impossible. 
+* User -   In the case of Bitcoin, similar to modern fiat-based currency, the trust of the purchaser and merchant in that the currency is integral; without trust the currency is not viable.[5] The dependence on trust is evidenced by past runs on Bitcoin after “bad” chains were created do to technical glitches. Acceptance of Bitcoin as a currency has grown despite the repeated prognostications that the currency would soon die. The US government has, tentatively, begun to treat Bitcoin as a legitimate currency.[6] In the broader blockchain context, users are individuals and organizations that wish to automate verification and retention of transactions. As mentioned earlier, this could be signatures for documents
+* Speculator/Investor/Derivatives - Speculation, synthetic investments, derivative vehicles serve to help spread risk in any market place.[7] In the case of the blockchain, whether it is Bitcoin or something, these functions are even more necessary. 
+Basic Transactions
+Currently the most prolific use of the the blockchain is BitCoin, although the principles that drive the blockchain could host a number of different services, for instance the service provided by BlockSign. It comes to my mind that the IRS and Revenue service could essentially become one giant blockchain. Taxation and refunding would become instant and dynamic, capable of responding to the economic behavior of every individual. When boiled down, the IRS is a ledger keeping track of what all taxpayers owed and what they have paid. This is run through a centralized bureaucracy filled with people in a structure designed by 19th century Germans. Blockchain is also a giant public ledger, however it is run through a multitude of people, fairly incorruptible and almost infallible, at least compared to the IRS. What if, Evan Absher’s economic activity instantly 
+Elements --
+What are the roles of people using, operating or involved in the blockchain? 
+
+
+What basic types of transactions or other interactions are conducted in or with or because of the blockchain? 
+
+
+What data is the blockchain comprised of and what data is transmitted,  or stored or processed in or with the blockchain?
+
+
+What systems (platforms, networks, apps, services etc) does the blockchain operate in or with? 
+
+
+These four items make a write up into a new kind of tech brief. Like briefing a case. There are usually no solid or static answers to a single one of the questions upon deeper analysis. But even superficially the inquiries shed a lot of light on the most relevant facets of tech in context and hence provides a basis for legal and business evaluation and decision making. 
+
+
+________________
+[1] Wikipedia Entry for Blockchain Network, http://en.wikipedia.org/wiki/Bitcoin_network. See also Satashi Nakamoto, Bitcoin (May, 24th 2009) available at https://bitcoin.org/bitcoin.pdf and Simon Barber et al., Bitter to Better - How to make Bitcoin a Better Currency (Dec. 20 2012) available at http://crypto.stanford.edu/~xb/fc12/bitcoin.pdf.
+[2] https://blocksign.com/ 
+[3] Id.
+[4] Id. 
+[5] It should be noted that bitcoin is considered a currency, but not necessarily a fiat-based, sovereign currency. It is not a note that is issued by a central bank. Where as the dollar is backed by the guarantee of the Federal Reserve, Bitcoin is not and therefore is sold almost as soon as received, which actually drives down the price of Bitcoin units the more widespread it is adopted . Houman B. Shadab, Written Statement to the Commodity Futures Trading Commisio, at 3 (Oct. 9 2014) available at http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=790790.
+[6] Magistrate Judge Amos L. Mazzant of a Texas District Court classified bitcoin as a currency, SEC v. Trendon T. Shavers and Bitcoin Savings and Trust, 416 (E.D. Tex. 2013) available at, https://ia800904.us.archive.org/35/items/gov.uscourts.txed.146063/gov.uscourts.txed.146063.23.0.pdf. See also, GAO Report GAO-13-516. Report to the Committee on Finance, U.S. Senate (2014) available at http://www.gao.gov/assets/660/654620.pdf.
+[7] Shadab, supra note 5, at 3-4.
