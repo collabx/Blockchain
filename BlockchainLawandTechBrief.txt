@@ -12,7 +12,7 @@ Facts:
 * The network timestamps transactions by including them in blocks that form an ongoing chain called the block chain. Such blocks cannot be changed without redoing the work that was required to create each block since the modified block. The longest chain serves not only as proof of the sequence of events but also records that this sequence of events was verified by a majority of the bitcoin network's computing power. As long as a majority of computing power is controlled by nodes that are not cooperating to attack the network, they will generate the longest chain of records and outpace attackers.[3]
 * The network itself requires minimal structure to share transactions. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will. Upon reconnection, a node will download and verify new blocks from other nodes to complete its local copy of the block chain.[4]
 
-People:
+Roles:
 There are several roles for people to play in blockchain, miner, user (both purchaser and merchant), speculator and investor. 
 * Miner - The role of miner is one of verification. Individuals engage in proof-of-work to verify the transactions that have occurred in the blockchain. Miners essentially “find” new blocks and join them to the chain. Because this is spread out among a multitude of users it is widely considered extremely secure. If someone wished to tamper  with the blockchain, they would have to change all the proof-of-work from all miners and miner pools, a feat that is, at this time, almost impossible. 
 * Users
